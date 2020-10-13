@@ -4,11 +4,6 @@
 
 **Course Enrollement:** This project was completed as an assignment for *CS40: Coding for the Web* at Claremont McKenna College, and you can view the project guidelines on the [project webpage](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02).
 
-#### Learning Objectives
-1. Complete a python project entirely on your own
-2. Integrate python knowledge with HTML/Markdown knowledge
-3. Understand how python allows more advanced data analysis than tools like excel
-
 **Note:** The episode runtimes for Game of Thrones was modified in order to create numerical diversity within the dataset. The original dataset shows a length of 60 minutes for the majority of episodes, which would make for uninteresting plots.  
 
 ## Average Seasonal Runtime of Black Mirror Episodes
