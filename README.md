@@ -27,8 +27,6 @@ This graph illustrates the seasonal runtime of Game of Thrones episodes in seaso
 
 **Original Data:** The original dataset can be accessed on the following Github Repository: [Awesome Json Datasets](https://github.com/jdorfman/awesome-json-datasets#tv-shows)
 
-**Project:** The original dataset can be accessed on the following Github Repository: [Awesome Json Datasets](https://github.com/jdorfman/awesome-json-datasets#tv-shows)
-
 
 
 
