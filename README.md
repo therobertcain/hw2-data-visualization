@@ -2,7 +2,7 @@
 
 **Assignment Brief:** Perform a simple data visualization on a dataset of your choice and create a webpage that describes the results. 
 
-**Course Enrollement:** This project was completed as an assignment for *CS40: Coding for the Web* at Claremont McKenna College, and you can view the project guidelines on the [project webpage](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02)
+**Course Enrollement:** This project was completed as an assignment for *CS40: Coding for the Web* at Claremont McKenna College, and you can view the project guidelines on the [project webpage](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02).
 
 #### Learning Objectives
 1. Complete a python project entirely on your own
