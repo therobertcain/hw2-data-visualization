@@ -1,13 +1,15 @@
 # Homework 2: Data Visualization of TV Show Metrics for Black Mirror and Game of Thrones
 
-**Assignment Brief:** Perform a simple data visualization on a dataset of your choice and create a webpage that describes the results.  
+**Assignment Brief:** Perform a simple data visualization on a dataset of your choice and create a webpage that describes the results. 
 
-**Note:** The episode runtimes for Game of Thrones was modified in order to create numerical diversity within the dataset. The original dataset shows a length of 60 minutes for the majority of episodes, which would make for uninteresting plots.
+**Course Enrollement:** This project was completed as an assignment for *CS40: Coding for the Web* at Claremont McKenna College, and you can view the project guidelines on the [project webpage](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02)
 
 #### Learning Objectives
 1. Complete a python project entirely on your own
 2. Integrate python knowledge with HTML/Markdown knowledge
 3. Understand how python allows more advanced data analysis than tools like excel
+
+**Note:** The episode runtimes for Game of Thrones was modified in order to create numerical diversity within the dataset. The original dataset shows a length of 60 minutes for the majority of episodes, which would make for uninteresting plots.  
 
 ## Average Seasonal Runtime of Black Mirror Episodes
 
@@ -17,13 +19,15 @@ This graph illustrates the average seasonal runtime of Black Mirror episodes for
 
 **Original Data:** The original dataset can be accessed on the following Github Repository: [Awesome Json Datasets](https://github.com/jdorfman/awesome-json-datasets#tv-shows)
 
-## Season Runtime of Game of Thrones Episodes 
+## Seasonal Runtime of Game of Thrones Episodes 
 
 ![Game of Thrones Figure](/images/game_of_thrones_figure.png)
 
-This graph illustrates the seasonal runtime of Game of Thrones episodes in season 1, 2, 3, 4, 5, 6, 7, and 8. 
+This graph illustrates the seasonal runtime of Game of Thrones episodes in seasons 1 through 8. Each season consists of 10 episodes, except for season 8 which has only 6. The sharp corners and line endpoints represent episode runtimes. S8E3 has the longest runtime of approximetely 98 minutes, and S3E10 has the shortest runtime of approximately 30 minutes.
 
 **Original Data:** The original dataset can be accessed on the following Github Repository: [Awesome Json Datasets](https://github.com/jdorfman/awesome-json-datasets#tv-shows)
+
+**Project:** The original dataset can be accessed on the following Github Repository: [Awesome Json Datasets](https://github.com/jdorfman/awesome-json-datasets#tv-shows)
 
 
 
