@@ -4,7 +4,7 @@
 
 **Course Enrollement:** This project was completed as an assignment for *CS40: Coding for the Web* at Claremont McKenna College, and you can view the project guidelines on the [project webpage](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02).
 
-**Note:** The episode runtimes for Game of Thrones was modified in order to create numerical diversity within the dataset. The original dataset shows a length of 60 minutes for the majority of episodes, which would make for uninteresting plots.  
+**Note:** The episode runtimes for Game of Thrones were modified in order to create numerical diversity within the dataset. The original dataset shows a length of 60 minutes for the majority of episodes, which would make for uninteresting plots.  
 
 ## Average Seasonal Runtime of Black Mirror Episodes
 
